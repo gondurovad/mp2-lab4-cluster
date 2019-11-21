@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "sample_cluster.exe (bin\\sample_cluster.exe)",
+      "name": "sample_cluster.exe (bin\\sample_cluster.exe)"
+    }
+  ]
+}
